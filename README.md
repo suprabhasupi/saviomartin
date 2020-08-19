@@ -19,12 +19,11 @@
 - ⚡ Fun fact: I'm comming to teen
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true"/>
-### Frontend
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=EF953D)
-![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=2195F1)
-![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699)
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=grey&labelColor=F7D43C)
-![webpack](https://img.shields.io/badge/-webpack-grey?style=for-the-badge&logo=webpack&logoColor=grey&labelColor=8DD6F9)
+
+<img src="https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=EF953D"/>
+<img src="https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=2195F1"/>
+<img src="https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699"/>
+<img src="https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=grey&labelColor=F7D43C"/>
 
 #### Frameworks CSS
 ![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=563D7C)
