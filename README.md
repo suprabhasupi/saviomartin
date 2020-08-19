@@ -1,4 +1,4 @@
-<img align="center" alt="savio.works" src="assets/banner.gif"/>
+<img align="center" alt="savio.works" src="saviomartin/assets/banner.gif"/>
 
 Here are some ideas to get you started:
 
