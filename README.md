@@ -11,14 +11,14 @@
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
 
-- 🔭 I’m currently working on NodeJs
+- <img align="center" src="https://image.flaticon.com/icons/svg/174/174855.svg"/>
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Frontend
 - 📫 How to reach me: saviomartin2020@gmail.com
 - 😄 My website: https://savio.works/
 - ⚡ Fun fact: I'm comming to teen
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true"/>
+<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true"/ height="22px" width="22px">
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
