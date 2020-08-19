@@ -11,14 +11,11 @@
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
 
-- <img align="center" src="https://image.flaticon.com/icons/svg/174/174855.svg"/>
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Frontend
-- 📫 How to reach me: saviomartin2020@gmail.com
-- 😄 My website: https://savio.works/
-- ⚡ Fun fact: I'm comming to teen
+- <a href="https://www.instagram.com/teen_developer/"><img  height="22px" width="22px" src="https://image.flaticon.com/icons/svg/174/174855.svg"/>  @teen_developer</a>
+- <a href="https://www.instagram.com/teen_developer/"><img  height="22px" width="22px" src="https://image.flaticon.com/icons/svg/733/733547.svg"/>  @saviomartin.1694</a>
+- <a href="https://www.instagram.com/teen_developer/"><img  height="22px" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg"/>  @saviomartin3r</a>
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true"/ height="22px" width="22px">
+<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
