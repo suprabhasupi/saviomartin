@@ -11,9 +11,9 @@
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
 
-- <a href="https://www.instagram.com/teen_developer/"><img  height="22px" width="22px" src="https://image.flaticon.com/icons/svg/174/174855.svg"/>  @teen_developer</a>
-- <a href="https://www.instagram.com/teen_developer/"><img  height="22px" width="22px" src="https://image.flaticon.com/icons/svg/733/733547.svg"/>  @saviomartin.1694</a>
-- <a href="https://www.instagram.com/teen_developer/"><img  height="22px" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg"/>  @saviomartin3r</a>
+- <a href="https://www.instagram.com/teen_developer/"><img  height="22px" width="22px" src="https://image.flaticon.com/icons/svg/174/174855.svg"/> </a>
+- <a href="https://www.instagram.com/teen_developer/"><img  height="22px" width="22px" src="https://image.flaticon.com/icons/svg/733/733547.svg"/></a>
+- <a href="https://www.instagram.com/teen_developer/"><img  height="22px" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg"/></a>
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
 
