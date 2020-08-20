@@ -51,5 +51,5 @@
 ![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=covid-chatbot&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
 
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin" id="counter">
 </p>
